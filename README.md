@@ -29,6 +29,6 @@ problema 4 "scrivi sulla pagina nomecognomecolorepreferito23"
 1.dichiaro una variabile "full_string"
 2.assegno a questa variabile i valori delle altre variabili dentro una stringa
 2.creo l'id "template_literal" all'interno dell'html
-4.richiamo l'id "template_literal" con document.getElementById('template_literal')
-5.assegno a "document.getElementById('template_literal')" la variabile "full_string"
+4.richiamo l'id "template_literal" con document.getElementById('template_literal').innerHTML
+5.assegno a "document.getElementById('template_literal').innerHTML" la variabile "full_string"
 
